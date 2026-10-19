@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js
+.next/
+out/
+build/
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+mobile/build/
+mobile/.dart_tool/
+
+# Environment
+.env*
+!.env.example
+
+# OS & Editor
+.DS_Store
+*.pem
+*.log
+.idea/
+.vscode/
+*.iml
