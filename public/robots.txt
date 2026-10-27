@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://sorifurjaman.github.io/arifur/sitemap.xml
+Sitemap: https://arifur.cyou/sitemap.xml
