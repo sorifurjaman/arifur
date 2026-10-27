@@ -32,6 +32,7 @@ export default function Footer() {
             target="_blank"
             rel="noopener noreferrer"
             title="Telegram"
+            aria-label="Telegram Profile of Arifur Jaman"
             className="border-beam-neon w-10 h-10 rounded-xl flex items-center justify-center text-cyan-300 hover:text-white transition-all"
           >
             <Send className="w-4 h-4 text-cyan-400" />
@@ -42,6 +43,7 @@ export default function Footer() {
             target="_blank"
             rel="noopener noreferrer"
             title="GitHub"
+            aria-label="GitHub Profile of Arifur Jaman"
             className="border-beam-neon w-10 h-10 rounded-xl flex items-center justify-center text-gray-300 hover:text-white transition-all"
           >
             <Github className="w-4 h-4" />
@@ -52,6 +54,7 @@ export default function Footer() {
             target="_blank"
             rel="noopener noreferrer"
             title="Facebook"
+            aria-label="Facebook Profile of Arifur Jaman"
             className="border-beam-neon w-10 h-10 rounded-xl flex items-center justify-center text-blue-400 hover:text-white transition-all"
           >
             <Facebook className="w-4 h-4" />
@@ -62,6 +65,7 @@ export default function Footer() {
             target="_blank"
             rel="noopener noreferrer"
             title="Discord"
+            aria-label="Discord Server of Arifur Jaman"
             className="border-beam-neon w-10 h-10 rounded-xl flex items-center justify-center text-indigo-400 hover:text-white transition-all"
           >
             <MessageSquare className="w-4 h-4" />
@@ -76,6 +80,7 @@ export default function Footer() {
           <button
             onClick={scrollToTop}
             title="Scroll to Top"
+            aria-label="Scroll to top of page"
             className="border-beam-neon w-9 h-9 rounded-xl text-cyan-300 hover:text-white flex items-center justify-center transition-all cursor-pointer"
           >
             <ArrowUp className="w-4 h-4 text-cyan-400" />

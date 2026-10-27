@@ -153,7 +153,7 @@ export default function EmojiTextPortrait() {
           {/* ========================================================= */}
           <img
             src={profileRestoredImg}
-            alt="ARIFUR JAMAN"
+            alt="Arifur Jaman - Full Stack Developer and Telegram Bot Automation Specialist"
             className="relative z-10 w-[94%] h-[94%] object-contain object-bottom filter drop-shadow-[0_12px_30px_rgba(6,182,212,0.45)] transition-transform duration-700 group-hover:scale-105"
           />
 

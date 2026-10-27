@@ -96,6 +96,7 @@ export default function Navbar({ onContactClick }) {
         {/* Mobile Menu Button */}
         <button
           onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+          aria-label="Toggle navigation menu"
           className="border-beam-neon md:hidden p-2 rounded-lg text-gray-300 hover:text-white"
         >
           {mobileMenuOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}

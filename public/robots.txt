@@ -1,0 +1,6 @@
+# Robots.txt for Arifur Jaman Portfolio
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://sorifurjaman.github.io/arifur/sitemap.xml

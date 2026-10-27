@@ -437,6 +437,10 @@ export default function HeroAnimation({ onContactClick }) {
 
       {/* Center Cinematic Content */}
       <div className="relative z-10 w-full max-w-5xl px-6 my-auto text-center flex flex-col items-center justify-center">
+        {/* Accessible Semantic H1 for Search Engine Indexing & A11y */}
+        <h1 className="sr-only">
+          Arifur Jaman | Full Stack &amp; Telegram Bot Developer Portfolio
+        </h1>
         
         {/* Name / Transform Text Area */}
         <div className="relative min-h-[140px] sm:min-h-[170px] md:min-h-[220px] flex items-center justify-center perspective-[1000px]">

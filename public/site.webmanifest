@@ -1,0 +1,26 @@
+{
+  "name": "Arifur Jaman | Full Stack & Bot Developer",
+  "short_name": "Arifur Jaman",
+  "description": "Portfolio of Arifur Jaman showcasing Telegram Bots, Web Applications, and Mobile Utilities.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030407",
+  "theme_color": "#060913",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
